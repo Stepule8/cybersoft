@@ -1,1 +1,1 @@
-# cybersoft
+CyberSoft zkušební projekt
